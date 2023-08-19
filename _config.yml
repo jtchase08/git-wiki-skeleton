@@ -6,6 +6,8 @@ title: "Joehiker's Guide"
 baseurl: "/joehikersguide"
 # (string) Description of your wiki
 description: Like the Hitchhiker's Guide, but instead it's content by me. Joe.
+# style changes css link
+inc_after_styles : "_includes/head.html" 
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar

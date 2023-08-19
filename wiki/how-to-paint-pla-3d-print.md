@@ -2,7 +2,7 @@
 date: 2023-08-19
 ---
 
-## How to Prep, Paint, and Finish a PLA 3D Print
+## How to Paint a PLA 3D Print
 
 ### Materials Needed
 
