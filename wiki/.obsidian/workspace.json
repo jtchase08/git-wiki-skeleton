@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32ab14c545ee5524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "how-to-paint-pla-3d-print.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "492f2924869b3551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sites-i-really-like.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "houseplants-with-cats.md",
+                "file": "sites-i-really-like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "houseplants-with-cats.md",
+                "file": "sites-i-really-like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "houseplants-with-cats.md"
+                "file": "sites-i-really-like.md"
               }
             }
           }
@@ -146,9 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a207f0562fadf2e",
+  "active": "492f2924869b3551",
   "lastOpenFiles": [
     "how-to-paint-pla-3d-print.md",
+    "sites-i-really-like.md",
+    "stile-mcfarts.md",
+    "how-to-do-this-thing.md",
     "houseplants-with-cats.md",
     "example-page.md"
   ]

@@ -28,13 +28,15 @@ date: 2023-08-19
 
 | Material Needed            | Price for Material | Amount of Material | Price per Unit of Material |
 |---------------------------|-------------------|-------------------|--------------------------|
-| Isopropyl alcohol          | $           | 16oz              | $/ounce               |
-| 220 grit sandpaper pads    | $           | 6-pack            | $/pad                 |
-| Plastic-specific primer    | $           | 200ml can          | $/ml                   |
-| Acrylic paints             | $           | 16-pack           | $/bottle              |
-| Paintbrushes               | $           | 24-piece          | $/brush               |
-| Clear acrylic sealer       | $            | 12oz can           | $/ounce               |
+| 91% Isopropyl alcohol          | $3.98           | 32oz              | $0.12/oz               |
+| 220 grit sandpaper pads    | $3.48           | 2-pack            | $1.24/pad                 |
+| Plastic-specific primer    | N/A           | N/A          | N/A                   |
+| Acrylic paints             | $8.37           | 12-pack           | $0.70/bottle              |
+| Paintbrushes               | $6.22           | 24-piece          | $0.25/brush               |
+| Clear acrylic sealer       | $9.99            | 12oz can           | $0.83/oz               |
 
+
+### Guide
 
 **Step 1: Preparing the Surface**
 
